@@ -12,7 +12,7 @@ const ProductsData = [
     img: Img3,
     title: "Smart Software & AI Solutions",
     description:
-      "WWe build AI-powered ERP & CRM systems, smart websites, and intelligent apps that automate workflows, boost efficiency, and supercharge your digital growth.",
+      "We build AI-powered ERP & CRM systems, smart websites, and intelligent apps that automate workflows, boost efficiency, and supercharge your digital growth.",
     link: "/smart",
   },
   {
@@ -28,7 +28,7 @@ const ProductsData = [
     img: Img2,
     title: "Facility Management",
     description:
-      "From pFrom reliable manpower to high-profile event management, we ensure seamless execution and peace of mind. Our  end-to-end security services cover trained guards, VIP protocol, travel protection, and AI-powered surveillance. With tech-driven TIS solutions, we deliver complete safety and unmatched professionalism across every environmentroviding reliable manpower to managing high-profile events, our team ensures seamless execution, professional conduct, and peace of mind for every occasion.",
+      "From reliable manpower to high-profile event management, we ensure seamless execution and peace of mind. Our  end-to-end security services cover trained guards, VIP protocol, travel protection, and AI-powered surveillance. With tech-driven TIS solutions, we deliver complete safety and unmatched professionalism across every environmentroviding reliable manpower to managing high-profile events, our team ensures seamless execution, professional conduct, and peace of mind for every occasion.",
     link: "/manpower",
   },
 ];
